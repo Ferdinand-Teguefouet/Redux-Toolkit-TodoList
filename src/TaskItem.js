@@ -19,7 +19,7 @@ const TaskItem = (props) => {
           role="button"
           style={{ padding: "5px", marginLeft: "20px" }}
         >
-          X
+          Remove
         </span>
       </label>
     </div>
